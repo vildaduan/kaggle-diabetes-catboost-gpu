@@ -1,4 +1,4 @@
-# Diabetes Prediction with CatBoost (GPU)
+# Diabetes Prediction with CatBoost Classifier
 
 This project addresses the Kaggle Tabular Playground Series 2025 challenge to predict the probability of diabetes diagnosis using tabular clinical data.
 
